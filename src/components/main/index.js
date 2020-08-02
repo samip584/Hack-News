@@ -9,7 +9,6 @@ import './main.css'
 
 const baseUrl = 'https://hacker-news.firebaseio.com/v0/';
 const newsStoryUrl = baseUrl + 'topstories.json';
-const storyUrl = baseUrl + 'item/';
 
 class Main extends Component{
   constructor(){
