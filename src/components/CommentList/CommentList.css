@@ -9,9 +9,10 @@
   background-color: white;
   position: absolute;
   max-height: 520px;
-  max-width: 1110px;
+  max-width: 1070px;
   padding: 50px;
   margin: auto;
+  width: calc(100% - 130px);
   top: 0; left: 0; bottom: 0; right: 0;
   overflow-y: scroll;
 }
